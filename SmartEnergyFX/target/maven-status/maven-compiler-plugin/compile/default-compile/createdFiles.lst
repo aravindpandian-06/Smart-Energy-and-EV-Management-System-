@@ -1,0 +1,7 @@
+com\smartenergy\MainApp.class
+com\smartenergy\controller\ApplianceController.class
+module-info.class
+com\smartenergy\model\Appliance.class
+com\smartenergy\controller\UPSController.class
+com\smartenergy\model\UPSLoad$UPSAppliance.class
+com\smartenergy\model\UPSLoad.class
